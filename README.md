@@ -10,7 +10,7 @@ The program does the following:
     4.3. If the first number is greater than the second, then the second number is subtracted from the first and the third number is added to the fourth;
          otherwise, the first number is subtracted from the second and the fourth number is added to the third.
   5. The least common multiple is determined by calculating the half-sum of the values ​​of the third and fourth variables.
-  6. The entered numbers and their greatest common divisor are displayed on the screen.
+  6. The entered numbers and their least common multiple are displayed on the screen.
 Developed in the Microsoft Visual Studio integrated environment.
 
 CalcLcm. Занятия по С#. Платформа DotNet Framework. Алгоритмы. Простой ввод/вывод. Консольное приложение.
